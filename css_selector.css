@@ -51,8 +51,8 @@
     align-items: center;/*文字上下置中*/
     justify-content: center;/*文字左右置中*/
     text-align: center;/*使文字在內部區塊置中*/
-    width: 300px;
-    height: 40px;
+    width: 95%;
+    height: 95%;
     font-size: 20px;
     font-family: monospace;
     color: rgb(105, 25, 25);

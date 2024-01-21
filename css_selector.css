@@ -16,7 +16,7 @@
     width:100%;
     position:relative;
     /*background: repeat center top / 100% 100%;*/
-    background-image: url("cat_70%.png");
+    background-image: url("cat_70.png");
     background-repeat: repeat;
     background-color: rgba(255, 228, 196, 0.75);
 }
